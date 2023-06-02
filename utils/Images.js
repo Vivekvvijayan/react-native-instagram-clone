@@ -1,0 +1,31 @@
+export const Images = {
+    headerLogo:require("../assets/icons/instagram.png"),
+    notification:require("../assets/icons/notification.png"),
+    messanger:require("../assets/icons/messenger.png"),
+    heartOutline:require("../assets/icons/heart.png"),
+    heartFill:require("../assets/icons/heartFill.png"),
+    comment:require("../assets/icons/comment.png"),
+    dots:require("../assets/icons/dots.png"),
+    save:require("../assets/icons/save.png"),
+    arrowDown:require("../assets/icons/arrow_down.png"),
+    plusStory:require("../assets/icons/plusStory.png"),
+    homeOutline:require("../assets/icons/homeOutline.png"),
+    homeFill:require("../assets/icons/homeFill.png"),
+    search:require("../assets/icons/search.png"),
+    searchFill:require("../assets/icons/searchFill.png"),
+    plus:require("../assets/icons/plus.png"),
+    reelsOutline:require("../assets/icons/reelsOutline.png"),
+    reelsFill:require("../assets/icons/reelsFill.png"),
+    send:require("../assets/icons/send.png"),
+    powerOff:require("../assets/icons/powerOff.png"),
+    arrow:require("../assets/icons/arrow-left.png"),
+    camera:require("../assets/icons/camera.png"),
+    camera:require("../assets/icons/camera.png"),
+    delete:require("../assets/icons/delete.png"),
+    pencil:require("../assets/icons/pencil.png"),
+    user:"https://upload.wikimedia.org/wikipedia/commons/a/ac/Default_pfp.jpg",
+    // searchWhite:require("../assets/icons/searchWhite.png"),
+    
+
+
+}
